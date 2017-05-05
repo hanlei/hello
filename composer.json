@@ -7,6 +7,7 @@
     "require": {
         "php": ">=5.3.0 || ^7.0"
     },
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "hanlei",
